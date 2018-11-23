@@ -1,3 +1,20 @@
+/* line 1, /Users/XiaoAir/wdix/full_stack_dummy/app/assets/stylesheets/styles.scss */
+a {
+  color: #000;
+}
+/* line 1, /Users/XiaoAir/wdix/full_stack_dummy/app/assets/stylesheets/news.scss */
+#news {
+  background: yellow;
+}
+/* line 4, /Users/XiaoAir/wdix/full_stack_dummy/app/assets/stylesheets/news.scss */
+#news .article {
+  padding: 20px;
+  border: 1px solid black;
+}
+/* line 8, /Users/XiaoAir/wdix/full_stack_dummy/app/assets/stylesheets/news.scss */
+#news .article .title {
+  color: blue;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -10,6 +27,8 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
- *= require_self
+
+
+
  */
+
