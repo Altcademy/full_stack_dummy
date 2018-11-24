@@ -1,24 +1,8 @@
-# README
+# Full-stack Dummy Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby v2.3.7
+Rails v5.1.6
 
-Things you may want to cover:
+To start server, first run `Bundle` to install gems, then run `rails s` to start server.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+No model or database is added to this application.
